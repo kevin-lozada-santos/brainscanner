@@ -32,6 +32,12 @@ The [eight-view workspace tour](https://brainscanner.dev/#workspace-demo) lets y
 
 [First project guide](https://brainscanner.dev/guides/first-project-handoff) · [Review agent changes](https://brainscanner.dev/guides/review-agent-changes) · [Resume or hand off work](https://brainscanner.dev/guides/resume-a-coding-project)
 
+### Take a session summary with you
+
+In **Context → Sessions**, expand a session and choose **Copy summary** or **Download Markdown**. Carry its recorded changes, reported checks, decisions, blockers, and outcome into your next session. Review the text before sharing it.
+
+[Continue with another agent](https://brainscanner.dev/guides/resume-a-coding-project#resume-export)
+
 ### Follow the project
 
 If this would help your coding workflow, **give this repository a star**. Watch releases for product updates, and [share a specific workflow or issue](docs/support.md) that would make it more useful.

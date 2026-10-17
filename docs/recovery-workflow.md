@@ -22,4 +22,8 @@ The homepage's **Accept and queue / Edit / Reject** controls illustrate this dec
 
 Record what changed, what was checked, and what remains. A returning or different agent should inspect that history and verify the current files before continuing.
 
+In **Context → Sessions**, expand the relevant session and choose **Copy summary** or **Download Markdown**. The decision trail uses that session's submitted records; missing sections say “Not recorded.” It omits source diffs and full conversations. Review the text before sharing it with another person or agent; it is not a secret detector.
+
+[Copy a decision trail](https://brainscanner.dev/guides/resume-a-coding-project#resume-export)
+
 [Try the example](https://brainscanner.dev/#recover) · [Review guide](https://brainscanner.dev/guides/review-agent-changes) · [Handoff guide](https://brainscanner.dev/guides/resume-a-coding-project)
